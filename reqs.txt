@@ -1,5 +1,8 @@
+osascript==2020.12.3
+psutil==5.9.1
 PyAudio==0.2.11
 PyQt6==6.3.1
 PyQt6-Qt6==6.3.1
 PyQt6-sip==13.4.0
+runcmd==2020.12.3
 SpeechRecognition==3.8.1
