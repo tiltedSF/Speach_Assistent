@@ -50,7 +50,7 @@ def dot(voice: str):
             numbers.append(int(i))
 
     if numbers[1] == 0:
-        ans = 'На 0 делить нельзя'
+        ans = voice + 'На 0 делить нельзя'
     else:
         ans = voice + '\nОтвет: '+ str(numbers[0] / numbers[1])
     return ans

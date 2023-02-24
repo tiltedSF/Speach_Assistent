@@ -69,7 +69,7 @@ def listen(*args):
 # Функция для определения сказанной команды
 def execute_command_with_name(voice: str):
     """
-    Выполнение команды
+    Выполнение команды, которая была в голосе
     :param voice: поданный голос
     :return:
     """
